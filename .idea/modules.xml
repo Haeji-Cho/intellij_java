@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Package/Package.iml" filepath="$PROJECT_DIR$/Package/Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaOne.iml" filepath="$PROJECT_DIR$/javaOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson6/lesson6.iml" filepath="$PROJECT_DIR$/lesson6/lesson6.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson7/lesson7.iml" filepath="$PROJECT_DIR$/lesson7/lesson7.iml" />
